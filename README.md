@@ -32,7 +32,7 @@ conda create -n gr-env -c conda-forge gnuradio
 conda activate gr-env
 ```
 
-4. Start gnuradio
+### Start gnuradio
 ```bash
 gnuradio-companion
 ```
